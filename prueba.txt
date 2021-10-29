@@ -1,7 +1,5 @@
 qweqweqwweqweqeq55656eqwewqw
 qweqweqweqweqeqeqweqwwe
 es diferente este es un cabio icreible
-<<<<<<< HEAD
-uyiuyiyuiyuiu
-=======
->>>>>>> 73c17783fd657c92f45787d7ed5ac86eef306368
+
+
